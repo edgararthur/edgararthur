@@ -1,19 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0F172A,100:0A84FF&text=Edward%20Edgar%20Arthur&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Principal%20Software%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Backend%20%26%20Platform%20Architect&descSize=18&descAlignY=56&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0F172A,100:0A84FF&text=Edward%20Edgar%20Arthur&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Principal%20Software%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Backend%20%26%20Platform%20Systems&descSize=18&descAlignY=56&animation=fadeIn" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=I+design+reliable+software+systems.;I+build+AI-powered+products.;I+architect+backend+platforms+that+scale.;I+turn+complex+business+problems+into+clean+digital+systems." alt="Typing SVG" />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=I+design+reliable+software+systems.;I+build+AI-powered+products.;I+architect+backend+platforms+that+scale.;I+turn+complex+business+problems+into+clean+digital+systems." alt="Typing animation" />
 
 <br />
 <br />
 
 <a href="mailto:gilfoyle.arthur@protonmail.com">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=protonmail&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=protonmail&logoColor=38BDF8" alt="Email" />
 </a>
 <a href="https://twitter.com/ni_athur">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-0F172A?style=for-the-badge&logo=x&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-0F172A?style=for-the-badge&logo=x&logoColor=38BDF8" alt="Twitter" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=edgararthur&label=Profile%20Views&color=0A84FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=edgararthur&label=Profile%20Views&color=0A84FF&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -21,27 +23,67 @@
 
 <div align="center">
 
+## Principal Software Engineer building intelligent, reliable, production-grade systems.
+
+I work across **backend engineering, AI systems, platform architecture, fintech products, APIs, automation, enterprise workflows, and full-stack product development**.
+
+</div>
+
+---
+
+## Executive Profile
+
+<table>
+<tr>
+<td width="50%">
+
+### Engineering Focus
+
+I design and build software systems that are practical, scalable, secure, maintainable, and ready for real business use.
+
+My work combines **architecture, backend engineering, AI systems, automation, database design, product thinking, and delivery leadership**.
+
+</td>
+<td width="50%">
+
+### Core Areas
+
+* Backend systems
+* AI-powered applications
+* Platform architecture
+* Fintech workflows
+* Enterprise software
+* Multi-tenant systems
+* APIs and integrations
+* Dashboards and reporting
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering Snapshot
+
+<div align="center">
+
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Role-Principal%20Engineer-0F172A?style=flat-square&labelColor=020617&color=0A84FF" />
-<br />
-<sub>Architecture, systems, delivery</sub>
+<h3>Architecture</h3>
+<p>System design, boundaries, scalability, maintainability.</p>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Backend-0F172A?style=flat-square&labelColor=020617&color=0A84FF" />
-<br />
-<sub>Intelligent software products</sub>
+<h3>Backend</h3>
+<p>APIs, services, databases, authentication, integrations.</p>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Location-Ghana-0F172A?style=flat-square&labelColor=020617&color=0A84FF" />
-<br />
-<sub>Building for local and global markets</sub>
+<h3>AI Systems</h3>
+<p>LLM apps, RAG, assistants, automation, intelligence layers.</p>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Open%20To-Collaboration-0F172A?style=flat-square&labelColor=020617&color=0A84FF" />
-<br />
-<sub>Products, platforms, consulting</sub>
+<h3>Product</h3>
+<p>Business workflows, dashboards, usability, delivery.</p>
 </td>
 </tr>
 </table>
@@ -50,66 +92,61 @@
 
 ---
 
-<br />
-
-## Executive Summary
-
-I am a **software engineer and AI engineer** focused on building **reliable backend systems, intelligent applications, fintech platforms, enterprise workflows, APIs, dashboards, and production-ready digital products**.
-
-My work combines **software architecture, backend engineering, AI systems, database design, automation, product thinking, and technical leadership**. I care about systems that are clean, secure, scalable, maintainable, observable, and useful to real businesses.
-
-<br />
+## GitHub Analytics
 
 <div align="center">
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edgararthur&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=edgararthur&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=38BDF8&icon_color=38BDF8" alt="GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=edgararthur&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
+
+<br />
+<br />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgararthur&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" alt="Top languages" />
 
 </div>
 
 ---
 
+## Technology Landscape
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,cs" alt="Languages" />
+
+<br />
 <br />
 
-## Engineering Portfolio
+### Frontend
 
-<table>
-<tr>
-<td width="50%">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,electron" alt="Frontend technologies" />
 
-### Platform Engineering
+<br />
+<br />
 
-Designing backend platforms, APIs, service boundaries, authentication flows, database models, integrations, and operational systems that can support real business scale.
+### Backend & APIs
 
-</td>
-<td width="50%">
+<img src="https://skillicons.dev/icons?i=nodejs,express,py" alt="Backend technologies" />
 
-### AI Engineering
+<br />
+<br />
 
-Building AI-enabled products, intelligent assistants, document intelligence workflows, RAG systems, automation tools, and AI-powered business applications.
+### Databases & Infrastructure
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,docker,linux,nginx" alt="Databases and infrastructure" />
 
-### Product Architecture
+<br />
+<br />
 
-Translating complex business workflows into clean software systems with strong usability, maintainable architecture, and production-focused delivery.
+### Tools & Cloud
 
-</td>
-<td width="50%">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,firebase,aws" alt="Tools and cloud" />
 
-### Fintech Systems
-
-Working around financial workflows, core banking concepts, reporting, dashboards, transaction systems, multi-tenant products, and operational automation.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
-
-<br />
 
 ## Technical Operating Model
 
@@ -121,8 +158,8 @@ flowchart LR
     C --> E["AI Layer"]
     C --> F["Data Layer"]
     D --> G["APIs & Integrations"]
-    E --> H["Intelligence & Automation"]
-    F --> I["Reporting & Analytics"]
+    E --> H["Automation & Intelligence"]
+    F --> I["Analytics & Reporting"]
     G --> J["Production Product"]
     H --> J
     I --> J
@@ -130,165 +167,88 @@ flowchart LR
 
 ---
 
-<br />
+## Engineering Distribution
 
-## GitHub Intelligence
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=edgararthur&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=38BDF8&icon_color=38BDF8" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=edgararthur&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-
-<br />
-<br />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edgararthur&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edgararthur&theme=tokyonight" />
-
-<br />
-<br />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edgararthur&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edgararthur&theme=tokyonight&utcOffset=0" />
-
-</div>
+```mermaid
+pie title Engineering Focus
+    "Backend Systems" : 30
+    "AI Engineering" : 25
+    "Platform Architecture" : 20
+    "Product Engineering" : 15
+    "Infrastructure & Delivery" : 10
+```
 
 ---
 
-<br />
-
-## Contribution Graph
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=edgararthur&theme=tokyo-night&hide_border=true&area=true&radius=16&custom_title=Engineering%20Activity%20Graph" />
-
-</div>
-
----
-
-<br />
-
-## Technology Landscape
-
-<div align="center">
+## Principal-Level Strengths
 
 <table>
 <tr>
-<td align="center" width="25%">
-<h3>Languages</h3>
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cs" />
+<td width="33%">
+
+### System Architecture
+
+Designing clear technical foundations, service boundaries, data flows, integration patterns, and scalable product structures.
+
 </td>
-<td align="center" width="25%">
-<h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,electron" />
+<td width="33%">
+
+### Backend Engineering
+
+Building APIs, services, authentication, authorization, databases, reporting engines, and workflow automation.
+
 </td>
-<td align="center" width="25%">
-<h3>Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" />
-</td>
-<td align="center" width="25%">
-<h3>Infrastructure</h3>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" />
+<td width="33%">
+
+### AI Engineering
+
+Creating AI-powered assistants, document intelligence systems, RAG workflows, automation layers, and business copilots.
+
 </td>
 </tr>
 <tr>
-<td align="center" width="25%">
-<h3>Databases</h3>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase" />
+<td width="33%">
+
+### Product Thinking
+
+Turning complex operational needs into practical software that users can understand, trust, and depend on.
+
 </td>
-<td align="center" width="25%">
-<h3>AI</h3>
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" />
+<td width="33%">
+
+### Database Design
+
+Designing relational models, analytics structures, reporting views, transaction workflows, and optimized queries.
+
 </td>
-<td align="center" width="25%">
-<h3>Cloud</h3>
-<img src="https://skillicons.dev/icons?i=firebase,vercel,aws" />
-</td>
-<td align="center" width="25%">
-<h3>Tooling</h3>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,bash" />
+<td width="33%">
+
+### Delivery Leadership
+
+Moving products from requirements to architecture, implementation, deployment, iteration, and production improvement.
+
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
-
-<br />
-
-## Principal-Level Engineering Strengths
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/System%20Architecture-020617?style=for-the-badge&logoColor=38BDF8" />
-<br />
-<br />
-Designing clean boundaries, scalable structures, and maintainable technical foundations.
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Backend%20Engineering-020617?style=for-the-badge&logoColor=38BDF8" />
-<br />
-<br />
-Building APIs, services, data flows, authentication, integrations, and workflow engines.
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/AI%20Systems-020617?style=for-the-badge&logoColor=38BDF8" />
-<br />
-<br />
-Creating intelligent assistants, automation systems, document intelligence, and RAG workflows.
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Product%20Thinking-020617?style=for-the-badge&logoColor=38BDF8" />
-<br />
-<br />
-Turning real operational needs into usable, practical, high-value software products.
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Database%20Design-020617?style=for-the-badge&logoColor=38BDF8" />
-<br />
-<br />
-Designing relational structures, reporting models, analytics views, and optimized queries.
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Delivery%20Leadership-020617?style=for-the-badge&logoColor=38BDF8" />
-<br />
-<br />
-Guiding projects from requirements to architecture, implementation, deployment, and iteration.
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<br />
 
 ## Systems I Like Building
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Core%20Banking%20Platforms-0F172A?style=for-the-badge&labelColor=020617&color=0A84FF" />
-<img src="https://img.shields.io/badge/AI%20Assistants-0F172A?style=for-the-badge&labelColor=020617&color=38BDF8" />
-<img src="https://img.shields.io/badge/Enterprise%20Dashboards-0F172A?style=for-the-badge&labelColor=020617&color=0A84FF" />
-<img src="https://img.shields.io/badge/API%20Platforms-0F172A?style=for-the-badge&labelColor=020617&color=38BDF8" />
-<img src="https://img.shields.io/badge/Workflow%20Automation-0F172A?style=for-the-badge&labelColor=020617&color=0A84FF" />
-<img src="https://img.shields.io/badge/Multi--Tenant%20SaaS-0F172A?style=for-the-badge&labelColor=020617&color=38BDF8" />
-<img src="https://img.shields.io/badge/Document%20Intelligence-0F172A?style=for-the-badge&labelColor=020617&color=0A84FF" />
-<img src="https://img.shields.io/badge/Reporting%20Engines-0F172A?style=for-the-badge&labelColor=020617&color=38BDF8" />
+<img src="https://img.shields.io/badge/Core%20Banking%20Platforms-0F172A?style=for-the-badge&labelColor=020617&color=0A84FF" alt="Core Banking Platforms" />
+<img src="https://img.shields.io/badge/AI%20Assistants-0F172A?style=for-the-badge&labelColor=020617&color=38BDF8" alt="AI Assistants" />
+<img src="https://img.shields.io/badge/Enterprise%20Dashboards-0F172A?style=for-the-badge&labelColor=020617&color=0A84FF" alt="Enterprise Dashboards" />
+<img src="https://img.shields.io/badge/API%20Platforms-0F172A?style=for-the-badge&labelColor=020617&color=38BDF8" alt="API Platforms" />
+<img src="https://img.shields.io/badge/Workflow%20Automation-0F172A?style=for-the-badge&labelColor=020617&color=0A84FF" alt="Workflow Automation" />
+<img src="https://img.shields.io/badge/Multi--Tenant%20SaaS-0F172A?style=for-the-badge&labelColor=020617&color=38BDF8" alt="Multi-Tenant SaaS" />
+<img src="https://img.shields.io/badge/Document%20Intelligence-0F172A?style=for-the-badge&labelColor=020617&color=0A84FF" alt="Document Intelligence" />
+<img src="https://img.shields.io/badge/Reporting%20Engines-0F172A?style=for-the-badge&labelColor=020617&color=38BDF8" alt="Reporting Engines" />
 
 </div>
 
 ---
-
-<br />
 
 ## Engineering Philosophy
 
@@ -328,20 +288,6 @@ Guiding projects from requirements to architecture, implementation, deployment, 
 
 ---
 
-<br />
-
-## Achievement Board
-
-<div align="center">
-
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=edgararthur&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
-
-</div>
-
----
-
-<br />
-
 ## Current Direction
 
 I am currently focused on building **AI-enabled products, fintech systems, backend platforms, enterprise applications, intelligent automation, and software systems that can move from prototype to production**.
@@ -350,18 +296,18 @@ I am currently focused on building **AI-enabled products, fintech systems, backe
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Architecture+that+scales.;Systems+that+stay+maintainable.;AI+that+solves+real+workflows.;Products+that+create+business+value." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Architecture+that+scales.;Systems+that+stay+maintainable.;AI+that+solves+real+workflows.;Products+that+create+business+value." alt="Current direction" />
 
 <br />
 <br />
 
 <a href="mailto:gilfoyle.arthur@protonmail.com">
-  <img src="https://img.shields.io/badge/Build%20With%20Me-0A84FF?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Build%20With%20Me-0A84FF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Build With Me" />
 </a>
 
 <br />
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0A84FF,45:0F172A,100:020617" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0A84FF,45:0F172A,100:020617" alt="Footer" />
 
 </div>
