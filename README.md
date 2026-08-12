@@ -23,7 +23,7 @@
 
 <div align="center">
 
-## Principal Software Engineer building intelligent, reliable, production-grade systems.
+## A Software Engineer building intelligent, reliable, production-grade systems.
 
 I work across **backend engineering, AI systems, platform architecture, fintech products, APIs, automation, enterprise workflows, and full-stack product development**.
 
