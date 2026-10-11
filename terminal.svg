@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="625" viewBox="0 0 {W} {H}" role="img" aria-label="Terminal-style profile of Edward Edgar Arthur">
+<rect width="1120" height="625" rx="16" fill="#0d1117"/>
+<rect x="1" y="1" width="1118" height="623" rx="15" fill="none" stroke="#30363d" stroke-width="2"/>
+<path d="M16 1H1104Q1119 1 1119 16V48H1V16Q1 1 16 1" fill="#161b22"/>
+<circle cx="24" cy="25" r="7" fill="#ff5f57"/><circle cx="46" cy="25" r="7" fill="#febc2e"/><circle cx="68" cy="25" r="7" fill="#28c840"/>
+<text x="560" y="30" text-anchor="middle" fill="#8b949e" font-size="15" font-family="monospace">edgararthur@github: ~ / profile</text>
+<line x1="382" y1="72" x2="382" y2="586" stroke="#30363d" stroke-width="1"/>
+<style>text{font-family:ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace} .ascii{font-size:18px;white-space:pre} .key{fill:#e3a66e;font-weight:600} .val{fill:#a5d6ff} .section{fill:#79c0ff;font-weight:700}</style>
+<text class="ascii" x="48" y="143" fill="#79c0ff">            .--.</text>
+<text class="ascii" x="48" y="174" fill="#79c0ff">           |o_o |</text>
+<text class="ascii" x="48" y="205" fill="#79c0ff">           |:_/ |</text>
+<text class="ascii" x="48" y="236" fill="#79c0ff">          //   \ \</text>
+<text class="ascii" x="48" y="267" fill="#79c0ff">         (|     | )</text>
+<text class="ascii" x="48" y="298" fill="#79c0ff">        /\_   _/`\</text>
+<text class="ascii" x="48" y="329" fill="#79c0ff">        \___)=(___/</text>
+<text class="ascii" x="48" y="360" fill="#c9d1d9"></text>
+<text class="ascii" x="48" y="391" fill="#c9d1d9">   EDWARD EDGAR ARTHUR</text>
+<text class="ascii" x="48" y="422" fill="#7ee787"></text>
+<text class="ascii" x="48" y="453" fill="#c9d1d9">   SOFTWARE ENGINEER</text>
+<text class="ascii" x="48" y="484" fill="#c9d1d9">   AI ENGINEER</text>
+<text class="ascii" x="48" y="515" fill="#c9d1d9">   BACKEND / PLATFORM</text>
+<text x="410" y="92" class="section" font-size="17">edgararthur@github</text>
+<text x="410" y="115" class="key" font-size="15">OS:</text><text x="555" y="115" class="val" font-size="15">Software Engineering / AI / Platforms</text>
+<text x="410" y="138" class="key" font-size="15">Host:</text><text x="555" y="138" class="val" font-size="15">GitHub · edgararthur</text>
+<text x="410" y="161" class="key" font-size="15">Kernel:</text><text x="555" y="161" class="val" font-size="15">Backend Systems &amp; Architecture</text>
+<text x="410" y="184" class="key" font-size="15">Shell:</text><text x="555" y="184" class="val" font-size="15">Python · TypeScript · JavaScript</text>
+<text x="410" y="207" class="key" font-size="15">Languages:</text><text x="555" y="207" class="val" font-size="15">Python, TypeScript, JavaScript, Java, C#</text>
+<text x="410" y="230" class="key" font-size="15">Frontend:</text><text x="555" y="230" class="val" font-size="15">React, Next.js, Tailwind, Electron</text>
+<text x="410" y="253" class="key" font-size="15">Backend:</text><text x="555" y="253" class="val" font-size="15">Node.js, Express, APIs, Automation</text>
+<text x="410" y="276" class="key" font-size="15">Databases:</text><text x="555" y="276" class="val" font-size="15">PostgreSQL, MySQL, SQLite, Supabase</text>
+<text x="410" y="299" class="key" font-size="15">Infra:</text><text x="555" y="299" class="val" font-size="15">Docker, Linux, Nginx, AWS, Vercel</text>
+<text x="410" y="322" class="key" font-size="15">AI:</text><text x="555" y="322" class="val" font-size="15">LLMs, RAG, Assistants, Document AI</text>
+<text x="410" y="345" class="key" font-size="15">Focus:</text><text x="555" y="345" class="val" font-size="15">Fintech, SaaS, Enterprise Platforms</text>
+<text x="410" y="391" class="section" font-size="15">Contact</text><path d="M 500 387 H 1070" stroke="#30363d" stroke-dasharray="3 5"/>
+<text x="410" y="414" class="key" font-size="15">Email:</text><text x="555" y="414" class="val" font-size="15">gilfoyle.arthur@protonmail.com</text>
+<text x="410" y="437" class="key" font-size="15">X / Twitter:</text><text x="555" y="437" class="val" font-size="15">@ni_athur</text>
+<text x="410" y="460" class="key" font-size="15">GitHub:</text><text x="555" y="460" class="val" font-size="15">github.com/edgararthur</text>
+<text x="410" y="506" class="section" font-size="15">Philosophy</text><path d="M 500 502 H 1070" stroke="#30363d" stroke-dasharray="3 5"/>
+<text x="410" y="529" class="key" font-size="15">Build:</text><text x="555" y="529" class="val" font-size="15">Reliable · Secure · Maintainable</text>
+<text x="410" y="552" class="key" font-size="15">Ship:</text><text x="555" y="552" class="val" font-size="15">Intelligent production-grade systems</text>
+<text x="410" y="593" fill="#7ee787" font-size="15">➜</text><text x="438" y="593" fill="#c9d1d9" font-size="15">~</text><rect x="459" y="578" width="9" height="17" fill="#79c0ff"/></svg>
